@@ -97,11 +97,11 @@ Fintech     :: VietQR · PayOS · Banking Webhooks · Reconcile Engine · Idempo
 
 ### 👥 Đội ngũ kỹ sư cốt lõi / Engineering Leadership
 
-* **Lê Trí Trung** — Founder & Solutions Architect / Tech Lead
-* **Võ Duy Anh** — Lead System Architect & Backend Infrastructure
-* **Trần Nguyên Lộc** — Lead AI Engineer & Data Pipeline Specialist
-* **Nguyễn Mai Tuấn** — Senior Fullstack & DevOps Engineer
-* **Nguyễn Chơn Phước** — Senior Frontend & Mobile Developer
+* **Lê Trí Trung** — Founder & Head of Technology (Tech Lead / Enterprise System Architect)
+* **Hà Văn Ân** — Senior Full-Stack & AI Solutions Lead
+* **Nguyễn Thành Lộc** — Backend Architect & AI Lead (GraphRAG & Microservices)
+* **Nguyễn Chơn Phước** — Cloud DevOps & Distributed Infrastructure Engineer
+* **Nguyễn Minh Tuấn** — Enterprise .NET Developer & System Integration Specialist
 
 ---
 
