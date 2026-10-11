@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.png" alt="SynapForge Cover Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/banner.png" alt="SynapForge Cover Banner" width="100%" />
 
   <br/><br/>
 
