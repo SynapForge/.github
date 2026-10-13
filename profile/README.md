@@ -126,7 +126,7 @@ Fintech     :: VietQR · PayOS · Banking Webhooks · Reconcile Engine · Idempo
       <br />
       <sub>Founder & Head of Technology</sub>
       <br />
-      <small><em>Tech Lead · Enterprise Architect</em></small>
+      <small><em>Engineering Lead · WBS & Architecture</em></small>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/team/nguyen-chon-phuoc.png" width="100" alt="Nguyễn Chơn Phước" />
