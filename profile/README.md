@@ -100,17 +100,6 @@ Fintech     :: VietQR · PayOS · Banking Webhooks · Reconcile Engine · Idempo
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="https://github.com/trung2605">
-        <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/team/le-tri-trung.png" width="100" alt="Lê Trí Trung" />
-      </a>
-      <br />
-      <strong>Lê Trí Trung</strong>
-      <br />
-      <sub>Founder & Head of Technology</sub>
-      <br />
-      <small><em>Tech Lead · Enterprise Architect</em></small>
-    </td>
-    <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/team/ha-van-an.png" width="100" alt="Hà Văn Ân" />
       <br />
       <strong>Hà Văn Ân</strong>
@@ -127,6 +116,17 @@ Fintech     :: VietQR · PayOS · Banking Webhooks · Reconcile Engine · Idempo
       <sub>Backend Architect & AI Lead</sub>
       <br />
       <small><em>GraphRAG · Microservices</em></small>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/trung2605">
+        <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/team/le-tri-trung.png" width="100" alt="Lê Trí Trung" />
+      </a>
+      <br />
+      <strong>Lê Trí Trung</strong>
+      <br />
+      <sub>Founder & Head of Technology</sub>
+      <br />
+      <small><em>Tech Lead · Enterprise Architect</em></small>
     </td>
     <td align="center" width="20%">
       <img src="https://raw.githubusercontent.com/SynapForge/.github/main/profile/assets/team/nguyen-chon-phuoc.png" width="100" alt="Nguyễn Chơn Phước" />
